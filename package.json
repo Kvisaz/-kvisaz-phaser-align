@@ -1,6 +1,6 @@
 {
   "name": "@kvisaz/phaser-align",
-  "version": "0.2.3",
+  "version": "1.0.2",
   "description": "Align utilities for Phaser 3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
