@@ -1,6 +1,6 @@
-# Phaser Align Library
+# Phaser 3 Align Library
 
-A library for aligning game objects in Phaser. This library provides a flexible and easy-to-use interface for aligning
+A library for aligning game objects in Phaser 3. This library provides a flexible and easy-to-use interface for aligning
 and positioning game objects relative to each other or to the scene.
 
 - [Demo Site](https://kvisaz.github.io/phaser-align/demo_dist/)
