@@ -9,7 +9,7 @@ and positioning game objects relative to each other or to the scene.
 
 ## Features
 
-- Center game objects on the screen
+- Center game objects on Phaser scene or layout anywhere inside it
 - Align game objects relative to each other
 - Easily configurable text and sprite alignment
 
