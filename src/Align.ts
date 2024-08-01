@@ -196,8 +196,8 @@ export class Align {
 
     private getBounds(item: ISizeable, anchor: ISizeable): IBoundsPair {
         return {
-            aB: anchor?.getBounds(),
-            iB: item?.getBounds(),
+            aB: anchor.getBounds(),
+            iB: item.getBounds(),
         };
     }
 }
