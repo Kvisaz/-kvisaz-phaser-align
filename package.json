@@ -1,9 +1,12 @@
 {
   "name": "@kvisaz/phaser-align",
-  "version": "0.1.0",
+  "version": "0.2.3",
   "description": "Align utilities for Phaser 3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "start": "webpack serve --config webpack.demo.js",
     "build": "tsc",

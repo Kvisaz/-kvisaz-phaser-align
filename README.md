@@ -3,8 +3,9 @@
 A library for aligning game objects in Phaser. This library provides a flexible and easy-to-use interface for aligning
 and positioning game objects relative to each other or to the scene.
 
-[Demo Site](https://kvisaz.github.io/phaser-align/demo_dist/)
-[Github](https://github.com/Kvisaz/phaser-align)
+- [Demo Site](https://kvisaz.github.io/phaser-align/demo_dist/)
+- [Github](https://github.com/Kvisaz/phaser-align)
+- [NPM](https://www.npmjs.com/package/@kvisaz/phaser-align)
 
 ## Features
 
