@@ -3,6 +3,8 @@
 A library for aligning game objects in Phaser. This library provides a flexible and easy-to-use interface for aligning
 and positioning game objects relative to each other or to the scene.
 
+[Demo](https://kvisaz.github.io/phaser-align/demo_dist/)
+
 ## Features
 
 - Center game objects on the screen
@@ -20,6 +22,8 @@ npm install @kvisaz/phaser-align
 # Code Sample
 
 Look at [DemoScene.ts](./demo/DemoScene.ts)
+
+![](docs/phaser-align-screen.png)
 
 ```typescript
 const kingSprite = this.add.sprite(0, 0, Assets.sprites.king);
